@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+org.own.dive.in.spring.boot.overview.annotation.configuration.HelloWorldAutoConfiguration

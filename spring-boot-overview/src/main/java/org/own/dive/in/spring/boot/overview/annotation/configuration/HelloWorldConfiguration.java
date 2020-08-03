@@ -7,6 +7,6 @@ public class HelloWorldConfiguration {
 
     @Bean
     public String helloWorld() {
-        return "hello world";
+        return "hello world 1111";
     }
 }
